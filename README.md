@@ -72,6 +72,8 @@ Game engines that let you make a full game, but often within a particular style,
 
 
 *   [Flickgame](https://www.flickgame.org/) - A truly tiny engine, link frames to other frames. Share online or export.
+*   [Flickgame Import](https://www.glorioustrainwrecks.com/rhetoricstu/flickimport/index.html) - A Flickgame hack that allows you to import external images.
+*   [Flickgame Dither](http://starfold.org/flick/dither/) - Flickgame hack with different textured/dithered brushes.
 *   [GB Studio](https://www.gbstudio.dev/) - A drag and drop gameboy interface that lets you do some scripting. Export to html or an actual gameboy rom!
 *   [Bitsy](https://ledoux.itch.io/bitsy) - Bitsy is a simple sprite-based editor that lets you build rooms & worlds. Walk around and talk to people and be somewhere. Has a strong community.
 *   [Borksy](https://ayolland.itch.io/borksy) - Bitsy with hacks built-in.
@@ -128,6 +130,7 @@ Indie and open source game engines with more flexibility and power than the litt
 *   [Phaser.io](http://phaser.io/) - Desktop and mobile HTML5 game framework, using javascript.
 *   [Pixelbox.js](https://pixwlk.itch.io/pixelbox) - Combination editor and a simple JavaScript library.
 *   [Amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation, with online editor.
+*   [nCine](https://ncine.github.io/) - An open source cross-platform 2D game engine with an emphasis on performance.
 
 
 <a name="Fantasy-consoles"></a>
@@ -275,6 +278,7 @@ Tools for making images.
 *   [Terragen](https://planetside.co.uk/) - Photorealistic 3d terrain generator. Some versions are free for noncommercial use
 *   [Mapgen4](https://www.redblobgames.com/maps/mapgen4/) - Paint mountains, valleys, and oceans which determine biomes.
 *   [pattern mutation](https://lorenschmidt.itch.io/pattern-mutation-tool) - A tool for painting and exploring tiling patterns.
+*   [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) - A Windows app for generating and analyzing mazes.
 
 
 <a name="Paint-programs"></a>
@@ -287,6 +291,7 @@ Tools for making images.
 *   [JSPaint](https://jspaint.app/) - Microsoft Paint for the browser, more or less.
 *   [Krita](https://krita.org/en/) - A free & open source painting program.
 *   [GIMP](http://www.gimp.org/) - The GNU Image Manipulation Program.
+*   [Glimpse](https://glimpse-editor.org/) - A fork of GNU IMP with a better name. 
 *   [Paint.net](https://www.getpaint.net/) - Image and photo editing software for PCs that run Windows.
 *   [Strike](https://amorphous.itch.io/strike) - A web-based, 1-bit paint tool, primarily for quick sketching or line-drawing.
 
@@ -323,10 +328,12 @@ Tools for creating moving images, either animated or videographic.
 *   [Synfig Studio](https://www.synfig.org/) - A 2D animation tool.
 *   [Video Downloader Bot](https://twitter.com/DownloaderBot/with_replies) - A twitterbot you can @mention to have it turn a piece of media into a download link.
 *   [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
+*   [Gifsicle](https://www.lcdf.org/gifsicle/) -  Command-line tool for creating, editing, and inspecting GIFs.
 *   [Easing functions cheat sheet](https://easings.net/en) - A “what type of animation do you need” resource.
 *   [Mr. Squiggles](http://www.mrsquiggles.com/) - Dead simple animated doodle maker.
 *   [Synopsis](https://synopsis.video/) - Open source computational cinematography.
 *   [Time Lapse Assembler](http://www.dayofthenewdan.com/projects/time-lapse-assembler-1/) - Create movies from a sequence of images.
+*   [SpookyGhost](https://encelo.itch.io/spookyghost) - (25$) A procedural animation tool for sprites.
 
 
 <a name="3d"></a>
@@ -395,6 +402,7 @@ Tools for sound effects, music, and general audio.
 
 *   [Paulstretch](http://hypermammut.sourceforge.net/paulstretch/) - A program for extreme audio stretching. Make choruses and ambient tones.
 *   [Audacity](http://audacity.sourceforge.net/) - The free software for recording and editing sounds.
+*   [Sox](http://sox.sourceforge.net/) - A command line utility for converting and editing sounds. Especially useful for batch processing.
 *   [AudioSculpt](http://anasynth.ircam.fr/home/english/software/audiosculpt) - A visual approach to modifying a sound file.
 *   [Reaper](http://reaper.fm/) - Digital audio workstation
 *   [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Audio signal processing environment for mangling sound.
@@ -505,6 +513,7 @@ Tools that provide a backend or new programming environment in which to make oth
 *   [cables](https://cables.gl/) - A tool for creating beautiful interactive content with nodes.
 *   [Fragment](https://www.fsynth.com/) - a collaborative cross-platform AV live coding environment with pixels.
 *   [Sonic Pi](https://sonic-pi.net/) - A live code-based music creation and performance tool, also can export tracks.
+*   [Overtone](https://overtone.github.io/) - Collaborative Programmable Music
 *   [vvvv](https://vvvv.org/) - A hybrid visual/textual live-programming environment for easy prototyping and development.
 *   [Tooll.io](http://tooll.io/) - a free open source solution for creating interactive 3d content and animations.
 *   [Vuo](https://vuo.org/) - an application to help people develop interactive experiences, live performances, digital media, and more. Basic version is free.
@@ -825,3 +834,4 @@ Tools for picking, analyzing, or seeing colors.
 *   [plaintextproject.online/tools.html](https://plaintextproject.online/tools.html) - List of tools that can help you work and live more efficiently in plain text.
 *   [webfieldmanual.com](https://webfieldmanual.com) - A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
 * [altctrls.info](http://altctrls.info) - Open and collaborative list of resources for making alternative controllers and playful installations.
+* [Game Making Tools Wiki](https://www.gamemaking.tools/wiki/) - Wiki with resources for amateur game makers. Open-source, fun-to-use, and unerappreciated stuff especially.
